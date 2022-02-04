@@ -55,6 +55,13 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "winner",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -85,10 +92,10 @@
 	},
 	"sources": {
 		"contracts/Lottery.sol": {
-			"keccak256": "0x193edc95e40027bb7b1970555a5bd45e392c3a2a88cf67bf75bbfc9fd545a626",
+			"keccak256": "0x4a91bb893abc629f1478464ac3fd15a8660acf40cef8e0e32217c59239ea3f4b",
 			"urls": [
-				"bzz-raw://10d56c83f485d1bf019d6210a857502ae688a9a91d4ac56bff8e5a820ed3fe4d",
-				"dweb:/ipfs/Qmdh96PAZX2GKa72o3FrDSjiCWic2trb1hpLRvpFFNae65"
+				"bzz-raw://94d2f1ce299b6280198c74bf4036e13c9f6b88a906f8bfaf41966d9a97724f79",
+				"dweb:/ipfs/QmfQmvU4xEJSo3oVMaU5ync8LAtAHcNxeHAwpwwHC3q6p8"
 			]
 		}
 	},
